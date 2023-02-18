@@ -1,0 +1,11 @@
+{
+  "server": {
+    "port": 25576,
+    "host": "localhost",
+    "sub-directory": "/discord/logging/"
+  },
+  "hash": {
+    "salt": "xxx",
+    "delimiter": "xxx"
+  }
+}
